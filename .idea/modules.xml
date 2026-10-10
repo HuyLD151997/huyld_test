@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Buoi_3/Java_Buoi_3.iml" filepath="$PROJECT_DIR$/Java_Buoi_3/Java_Buoi_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basic/java-basic.iml" filepath="$PROJECT_DIR$/java-basic/java-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-buoi-2/java-buoi-2.iml" filepath="$PROJECT_DIR$/java-buoi-2/java-buoi-2.iml" />
+    </modules>
+  </component>
+</project>
